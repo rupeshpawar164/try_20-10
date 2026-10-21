@@ -11,3 +11,4 @@ def print1_TO_n(n):
         print(i, end=" ")
 
 print1_TO_n(19)
+print1_TO_n(19)
