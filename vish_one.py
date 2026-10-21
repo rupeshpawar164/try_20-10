@@ -5,6 +5,7 @@ def adding(*args):
     return result
 
 print(adding(10,20,30,40,50))
+print(adding(10,20,30,40,50))
 
 def print1_TO_n(n):
     for i in range(n):
